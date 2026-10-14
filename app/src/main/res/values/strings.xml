@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FloatLingo VI</string>
+    <string name="title_home">Dịch video thời gian thực</string>
+    <string name="subtitle_home">Thu âm thanh nội bộ, hiển thị phụ đề nổi tiếng Việt và chuẩn bị phát giọng dịch.</string>
+    <string name="status_ready">Sẵn sàng</string>
+    <string name="action_start">Bắt đầu dịch</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="api_key_label">Khóa API OpenAI</string>
+    <string name="target_language">Ngôn ngữ đích: Tiếng Việt</string>
+    <string name="overlay_label">Phụ đề nổi</string>
+    <string name="voice_label">Phát giọng dịch</string>
+</resources>
